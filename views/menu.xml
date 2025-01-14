@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem id="affiliate_root" name="Affiliates" parent="crm.crm_menu_config" sequence="20"/>
+    <menuitem id="crm_affiliate_menu" name="Manage Affiliates" parent="affiliate_root" action="crm_affiliate_action"/>
+</odoo>
