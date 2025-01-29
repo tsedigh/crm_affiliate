@@ -31,7 +31,7 @@
                     <group>
                         <group>
                             <field name="is_outdated"/>
-                            <field name="outdated_date"/>
+                            <field name="outdated_date"  force_save="1"/>
                         </group>
                         <group >
                             <field name="email" />
