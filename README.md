@@ -7,8 +7,8 @@
 ![Screenshot from 2025-01-14 21-40-39](https://github.com/user-attachments/assets/ac1eb424-6062-4f6c-907f-8cdb2736ce67)
 
 3. Affiliate Create/Edit form view
-   
-![Screenshot from 2025-01-14 21-41-15](https://github.com/user-attachments/assets/826b7f05-2387-44e0-bcf0-3207d41b99b2)
+
+![Screenshot from 2025-01-29 23-22-03](https://github.com/user-attachments/assets/b2fd2002-43db-4e33-93f4-4ab8735d05f0)
 
 4. Pipeline list with affiliate column(crm.lead)
    
