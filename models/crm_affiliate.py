@@ -24,6 +24,8 @@ class CrmAffiliate(models.Model):
     def _onchange_is_outdated(self):
         if self.is_outdated:
             self.outdated_date = date.today()
+        else:
+            self.outdated_date = ''
             
     
     # Check for preventing duplicate affiliate based on email address.
